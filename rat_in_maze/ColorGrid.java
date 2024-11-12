@@ -4,16 +4,7 @@
  */
 package rat_in_maze;
 
-/**
- *
- * @author aripa
- */
 
-
-/**
- *
- * @author MANOJ A
- */
 
 
 import javax.swing.*;
